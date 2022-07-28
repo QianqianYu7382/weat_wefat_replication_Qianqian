@@ -1,4 +1,7 @@
 # weat_wefat_replication_Qianqian
+
+replication of Word Embedding Association Test(WEAT), which is suggested in Semantics derived automatically from language corpora necessarily contain human biases by Aylin Caliskan-Islam, Joanna J. Bryson, and Arvind Narayanan.
+
 ## Note
 1. Please download Glove.840B.300D in pretrained folder
 2. The command line is in command.txt
