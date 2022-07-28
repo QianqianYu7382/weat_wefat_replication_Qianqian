@@ -13,8 +13,8 @@
 
 ## Authors
 
-- [@QianqianYU](https://github.com/QianqianYu7382)
+- [@QianqianYu](https://github.com/QianqianYu7382)
 
 ## Documentation
 
-[Documentation](https://arxiv.org/abs/1608.07187v2)
+[Semantics derived automatically from language corpora necessarily contain human biases](https://arxiv.org/abs/1608.07187v2)
