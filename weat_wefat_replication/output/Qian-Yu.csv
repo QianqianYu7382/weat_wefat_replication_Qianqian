@@ -1,0 +1,3 @@
+,Data Name,Targets,Attributes,Method,Score,# of target words,# of attribute words,SC_p_value,SC_score
+0,Qian_pleasant_unpleasant,Names,Pleasant attributes vs Unpleasant attributes,wefat,,1,25,0.1598711872461367,0.13754753394237432
+1,Yu_pleasant_unpleasant,Names,Pleasant attributes vs Unpleasant attributes,wefat,,1,25,0.8401288127538633,0.5452936840398084

@@ -1,0 +1,8 @@
+,Data Name,Targets,Attributes,nnln_en_128_output.csv,glove_output.csv,word2vec_output.csv,nnln_en_50_output.csv,universal_sentence_encoder.csv
+0,EuropeanAmerican_AfricanAmerican_Pleasant_Unpleasant,European American names vs African American names,Pleasant vs Unpleasant,-0.3710472881793976,1.0615533874676928,-0.6950653791427612,0.787864625453949,0.2073615491390228
+1,EuropeanAmerican_AfricanAmerican_Pleasant_Unpleasant_2,European American names vs African American names,Pleasant vs Unpleasant,-0.8524205684661865,1.10655761418527,-0.4330058395862579,0.2439133673906326,-0.0851040482521057
+2,Flowers_Insects_Pleasant_Unpleasant,Flowers vs Insects,Pleasant vs Unpleasant,1.6483474969863892,1.0726175421580977,1.5281119346618652,1.5515471696853638,1.39399516582489
+3,Male_Female_Career_Family,Male names vs Female names,Career words vs Family words,1.1073673963546753,1.757817178881747,1.519102692604065,1.2921433448791504,0.025630896911025
+4,Math_Arts_Male_Female,Math words vs Arts Words,Male attributes vs Female attributes,1.1085931062698364,1.5256825287272626,0.9323007464408876,1.330932378768921,0.6069824695587158
+5,MusicalInstruments_Weapons_Pleasant_Unpleasant,Musical instruments vs Weapons,Pleasant vs Unpleasant,1.5640208721160889,1.5142826247693182,1.6106573343276978,1.6731377840042114,1.4559656381607056
+6,Science_Arts_Male_Female,Science words vs Arts words,Male attributes vs Female attributes,1.0291712284088137,1.4765402978387692,1.1951627731323242,0.8010240793228149,0.7385187745094299

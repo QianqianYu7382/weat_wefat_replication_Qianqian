@@ -1,0 +1,3 @@
+,Data Name,Targets,Attributes,Method,Score,# of target words,# of attribute words,SC_p_value,SC_score
+0,Careers_Female_Male,Careers,Female attributes vs Male attributes,wefat,,50,8,0.42,-0.0971231356883461
+1,Names_Female_Male,Names,Female attributes vs Male attributes,wefat,,50,8,0.763,-0.16914037060758813
